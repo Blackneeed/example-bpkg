@@ -1,0 +1,5 @@
+name: test
+version: 0.0.0
+linux_script: test_linux.sh
+windows_script: test_win.bat
+supported_platforms: linux windows
