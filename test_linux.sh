@@ -12,4 +12,5 @@ if [ "$1" = "remove" ]; then
 fi
 if [ "$1" = "run" ]; then
     echo Test. The source of this pkg is located at $2 btw.
+    echo "I incremented version for tests btw. (to 0.0.1)"
 fi
